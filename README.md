@@ -1,7 +1,7 @@
 # Docker Laravel
 
 #### 1. Clone project  
-`git clone git@github.com:AngCosmin/docker-laravel.git` 
+`git clone https://github.com/gabrielprogramadorweb/laravel-docker
 
 #### 2. Navigate in project directory  
 `cd docker-laravel`
